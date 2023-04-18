@@ -1,2 +1,3 @@
-# nmarkov
-discord chatbot
+# nMarkov
+---
+A Discord chatbot
